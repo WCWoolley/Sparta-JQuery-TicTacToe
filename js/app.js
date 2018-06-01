@@ -48,7 +48,7 @@ $(document).ready(function(){
     }
     return -1;
   };
-
+  
   $("#reset").click(function(){
     window.location.reload();
   });
